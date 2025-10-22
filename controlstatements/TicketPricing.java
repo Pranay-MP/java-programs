@@ -19,7 +19,7 @@ public class TicketPricing {
 			price*=0.5;
 		}else if (passanger.equalsIgnoreCase("senior")){
 			price*=0.8;
-		}else if(passanger.equalsIgnoreCase("senior")) {
+		}else if(passanger.equalsIgnoreCase("adult")) {
 			
 		}else {
 			System.out.println("invalid passanger type");
